@@ -22,7 +22,7 @@ Run `mvn test` for the standard suite. The PostgreSQL integration tests are opt-
 
 ## Review version
 
-This snapshot comes from commit `e7087ad52950d0d8e32469776bf0394c8484bc53` on `thesis-hardening` in the original private repository. The review copy has a new Git history and uses local configuration for the reviewer’s services.
+This snapshot comes from commit `e7087ad52950d0d8e32469776bf0394c8484bc53` on `thesis-hardening` in the original private repository. I keep the original repository private because older revisions contain credentials and development configuration. This public review copy has a fresh Git history and uses local configuration for the reviewer’s services. The development history page includes screenshots from the original GitHub repository.
 
 - [Architecture](docs/architecture.md)
-- [Development history](docs/development-history.md)
+- [Development history and GitHub screenshots](docs/development-history.md#github-screenshots)
